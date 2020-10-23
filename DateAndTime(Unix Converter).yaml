@@ -1,0 +1,8 @@
+{var|seconds|{add|62125920000|{split|{multiply|{unix}|1000}|1|.}}}
+{test|{args|1}|seconds|{seconds}}
+{test|{args|1}|minutes|{divide|{seconds}|60}}
+{test|{args|1}|hours|{divide|{seconds}|3600}}
+{test|{args|1}|days|{divide|{seconds}|86400}}
+{test|{args|1}|weeks|{divide|{seconds}|604800}}
+{test|{args|1}|months|{divide|{seconds}|2592000}}
+{test|{args|1}|years|{divide|{seconds}|31536000}}
