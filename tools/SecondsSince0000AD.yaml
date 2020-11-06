@@ -2,10 +2,9 @@
 
 {var|comment-1|The following are optional}
 
-{test|{args|1}|seconds|{seconds}}
-{test|{args|1}|minutes|{divide|{seconds}|60}}
-{test|{args|1}|hours|{divide|{seconds}|3600}}
-{test|{args|1}|days|{divide|{seconds}|86400}}
-{test|{args|1}|weeks|{divide|{seconds}|604800}}
-{test|{args|1}|months|{divide|{seconds}|2592000}}
-{test|{args|1}|years|{divide|{seconds}|31536000}}
+{var|minutes|{divide|{seconds}|60}
+{var|hours|{divide|{seconds}|3600}
+{var|days|{divide|{seconds}|86400}
+{var|weeks|{divide|{seconds}|604800}
+{var|months|{divide|{seconds}|2592000}
+{var|years|{divide|{seconds}|31536000}
