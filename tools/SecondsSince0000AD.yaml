@@ -1,4 +1,7 @@
 {var|seconds|{add|62125920000|{split|{multiply|{unix}|1000}|1|.}}}
+
+{var|comment-1|The following are optional}
+
 {test|{args|1}|seconds|{seconds}}
 {test|{args|1}|minutes|{divide|{seconds}|60}}
 {test|{args|1}|hours|{divide|{seconds}|3600}}
