@@ -21,4 +21,5 @@ The [Tools.md](https://github.com/toxicscientist/Better-Robotop/blob/master/comm
 - [x] r!math remade
 - [ ] Rock Paper Scissors game
 - [ ] Daily XP rewards
+
 Feel free to request new command ideas using issues and add new commands with pull requests!
