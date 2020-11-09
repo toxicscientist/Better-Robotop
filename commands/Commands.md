@@ -11,10 +11,11 @@ _Note: The spaces are necessary, otherwise you'll get a "No Symbol Found" error_
 *Symbols:*
 
 ```
-+ :  Add
++ : Add
 - : Subtract
 / : Divide
 * : Multiply
 ^ : Power
 % : Modulo Divide
+= : Round to
 ```
