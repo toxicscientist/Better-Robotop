@@ -2,7 +2,7 @@
 
 ## [Math Remastered](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/math-remastered.yaml)
 
-Basically the old _r!math_ Robotop command but remade with custom commands.
+Basically the old _r!math_ Robotop command but remade with custom commands. Only useful for binomials.
 
 *Syntax:*
 `Number Symbol Number`
