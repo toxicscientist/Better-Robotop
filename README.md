@@ -22,3 +22,7 @@ Change variables as necessary but be careful, too many changes can break command
 - [ ] Daily XP rewards
 
 Feel free to request new command ideas using issues and add new commands with pull requests!
+
+_Here's a duck_
+
+![](https://i.imgur.com/lWdA3OU.gif)
