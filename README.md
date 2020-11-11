@@ -11,9 +11,9 @@ Change variables as necessary but be careful, too many changes can break command
 
 ### More information in:
 
-The [Commands.md](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Commands.md) file
+* The [Commands.md](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Commands.md) file
 
-The [Tools.md](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Commands.md) file
+* The [Tools.md](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Commands.md) file
 
 ### Task list of commands
 
