@@ -1,0 +1,3 @@
+{var|theuser|Put the id of the user you want to use this command here!}
+{var|command|Put the thing to execute if the user has permission here!}
+{test|{id}|{theuser}|{command}|**:no_entry: No permission to execute!** This command can only be executed by <@{theuser}>}
