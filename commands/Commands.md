@@ -1,6 +1,6 @@
 # Commands
 
-## [Math Remastered](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/math-remastered.yaml)
+## [Math Remastered](https://github.com/toxicscientist/Better-Robotop/blob/Canary/commands/math-remastered.yaml)
 
 Basically the old _r!math_ Robotop command but remade with custom commands. Only useful for binomials.
 
@@ -21,7 +21,7 @@ _Note: The spaces are necessary, otherwise you'll get a "No Symbol Found" error_
 = : Round to
 ```
 
-## [[QR Encoder]
+## [QR Encoder](https://github.com/toxicscientist/Better-Robotop/blob/Canary/commands/QR-Encoder)
 
 I'm actually not quite sure how this works so hopefully @hexagon8899 can explain(He made the command) but it encodes URLs into QR codes
 
@@ -30,6 +30,6 @@ I'm actually not quite sure how this works so hopefully @hexagon8899 can explain
 
 _Note: It sorta works on text but you have to use `%20` instead of a space if you want to put more than one word_
 
-## [[RockPaperScissors]]
+## [RockPaperScissors](https://github.com/toxicscientist/Better-Robotop/blob/Canary/commands/RockPaperScissors)
 
 **CANARY COMMAND: NO DESCRIPTION**
