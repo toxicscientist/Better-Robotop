@@ -1,4 +1,4 @@
-![Not Yet Colon Approved!](https://img.shields.io/badge/Not%20yet-Colon%20Approved-orange?style=for-the-badge)
+![Will never be Colon Approved!](https://img.shields.io/badge/Will%20never%20be-Colon%20Approved-orange?style=for-the-badge)
 
 _Important Note: This is the Sandbox Build of Better Robotop. For the stable build, please go to [This link](https://github.com/toxicscientist/Better-Robotop/)_
 
