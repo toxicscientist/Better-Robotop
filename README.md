@@ -1,12 +1,14 @@
 ![Not Yet Colon Approved!](https://img.shields.io/badge/Not%20yet-Colon%20Approved-orange?style=for-the-badge)
 
-_Important Note: This is the Canary Build of Better Robotop. For the stable build, please go to [This link](https://github.com/toxicscientist/Better-Robotop/)_
+_Important Note: This is the Sandbox Build of Better Robotop. For the stable build, please go to [This link](https://github.com/toxicscientist/Better-Robotop/)_
 
-# Better Robotop Canary
-A repository for incredibly new and untested [Better Robotop](https://github.com/toxicscientist/Better-Robotop/) commands. Some of the commands here are incredibly unstable, others don't work at all and others are sitting there, waiting for someone to notice that they work. So go on and make that "someone" into "you". Get on the bleeding edge of Robotop custom commands.
-
-# What is this?
-Better Robotop Canary is an untested Canary Build of the Better Robotop custom command list. It allows you to test the raw code of original untested custom commands and find bugs. Since the updates and new features first come to Canary, it is totally raw and has a number of bugs that still have not been fixed. This is not for the average user who just needs to add some cool commands for their servers but for professional users who want to help fix bugs or try out new unreleased features. Naturally, since the commands have not been tested, they are unreliable and unstable. There are constant updates on the Canary, and while it is exciting to experience the fancy new features, it is still a work in progress. So, while Stable is actually the fine-tuned version of Better Robotop, a lot of the updates might be removed from the Canary due to quality and unreliability. Not exactly smooth user experience, but then, that’s not what people are expecting with the Canary anyway. For a smooth experience, there is always the stable version.
-
-# Your Opinion Matters
-All the updates that you will receive and experience in this Canary Version are ongoing projects and are still being developed to perfection. That is why the opinions and feedback of all the Canary users matter greatly as they will be able to inform us of what else can be done to further improve the commands that we make. We highly recommend that you do this because eventually, at some point, these commands and all their uncaught bugs will go into the main stable build so please do start an issue and tell us what to fix...
+# SandBox
+***
+# This is the
+## Sandbox
+***
+# Play around here
+## In the Sandbox
+***
+### Also contains
+# Miscellanious things and stuff!
