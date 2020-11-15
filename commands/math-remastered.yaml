@@ -1,3 +1,0 @@
-{var|ans|{test|{args|2}|+|{add|{args|1}|{args|3}}|{test|{args|2}|-|{subtract|{args|1}|{args|3}}|{test|{args|2}|/|{divide|{args|1}|{args|3}}|{test|{args|2}|*|{multiply|{args|1}|{args|3}}|{test|{args|2}|^|{power|{args|1}|{args|3}}|{test|{args|2}|%|{modulo|{args|1}|{args|3}}|{test|{args|2}|=|{fixed|{args|1}|{args|3}|Error 001: No symbol found}}}}}}}}}
-
-{replace|{replace|{args} = **{ans}**|= ****|Error 003: Syntax Error}|NaN|Error 002: Returned answer was not a number(NaN error)}
