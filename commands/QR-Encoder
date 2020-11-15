@@ -1,2 +1,0 @@
-{empty|{split|{args}|2|///}|qr code for `{split|{args}|1|///}`}
-http://api.qrserver.com/v1/create-qr-code/?data=%20{split|{args}|1|///}
