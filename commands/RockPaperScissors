@@ -1,9 +1,0 @@
-{test|{args}|r|{var|response|paper} {var|choice|rock}|
-{test|{args}|p|{var|response|scissors}{var|choice|paper}|
-{test|{args}|s|{var|response|rock}{var|choice|scissors}|
-:warning: It seems you chose something that isn't "r", "p" or "s"... Please try again {var|choice|nothing} {var|response|something} }}}
-
-_You_ chose **{choice}**
-_Robotop_ chose **{response}**
-
-{Choose|I won, as always|Surprisingly I won|You won! Just kidding, I did|I have great news, I won!}
