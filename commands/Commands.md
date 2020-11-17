@@ -32,4 +32,8 @@ _Note: It sorta works on text but you have to use `%20` instead of a space if yo
 
 ## [RockPaperScissors](https://github.com/toxicscientist/Better-Robotop/blob/Canary/commands/RockPaperScissors)
 
-**CANARY COMMAND: NO DESCRIPTION**
+Is meant to play a RPS game against Robotop and then show you the results. Doesn't work.
+
+## [Random Boomlings Icon](https://github.com/toxicscientist/Better-Robotop/blob/Canary/commands/Random%20Boomlings%20Icon)
+
+Gives you a random boomlings icon, no syntax required. In Canary branch because it needs to be worked on
