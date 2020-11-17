@@ -1,0 +1,13 @@
+{var|comment| This sets the Block Image at the left of the advancement to a random block }
+{var|block|{rng|1|39}}
+
+
+{var|comment| This sets the Title of the Advancement Image to a random title}
+{var|Adv|{choose|Achievement+Get|Advancement+Made|Goal+Reached|Challenge+Complete}}
+
+
+{var|comment| This sets the advancement. It picks a random advancement if the user doesn't pick one }
+
+{var|ach|{empty|{replace|{args}| |+} |{choose|Taking+Inventory|Getting+Wood|Benchmarking|DIAMONDS!|We+need+to+go deeper|The+End?|The+End.|The+beginning.}}}
+
+https://minecraftskinstealer.com/achievement/{block}/{Adv}/{ach}
