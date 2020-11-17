@@ -16,11 +16,10 @@ Change variables as necessary but be careful, too many changes can break command
 * The [Commands.md](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Commands.md) file
 * The [Tools.md](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Commands.md) file
 
-### Task list of commands
+### Next Update
 
 - [x] Real Date and Time system
 - [x] r!math remade
 - [ ] Rock Paper Scissors game
-- [ ] Daily XP rewards
 
 Feel free to request new command ideas using issues and add new commands with pull requests!
