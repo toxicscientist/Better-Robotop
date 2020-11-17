@@ -1,6 +1,6 @@
 # Commands
 
-## [Math Remastered](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/math-remastered.yaml)
+## [Math Remastered](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/math-remastered.yaml) by IxNoah, WolfPlays13 and Me
 
 Basically the old _r!math_ Robotop command but remade with custom commands. Only useful for binomials.
 
@@ -21,7 +21,7 @@ _Note: The spaces are necessary, otherwise you'll get a "No Symbol Found" error_
 = : Round to
 ```
 
-## [QR Encoder](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/QR-Encoder)
+## [QR Encoder](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/QR-Encoder) by Hexagon8899
 
 I'm actually not quite sure how this works so hopefully @hexagon8899 can explain(He made the command) but it encodes URLs into QR codes
 
@@ -42,3 +42,7 @@ _Note 1: This returns "Colon" and "Cube" for both arguments respectively if they
 _Note 2: Glow can be removed by removing "&glow=1"_
 
 _Note 3: The size of the image will be automatically resized to fit the icon. This can be removed by changing "auto" in "&size=auto" to the amount of pixels you want(it will always be square)_
+
+## [Random GD Icon Generator](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Random%20GD%20Icon%20Generator) by Hexagon8899
+
+Generates a random GD icon using the [GDBrowser API](https://gdbrowser.com/API) without needing any syntax.
