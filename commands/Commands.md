@@ -32,8 +32,15 @@ _Note: It sorta works on text but you have to use `%20` instead of a space if yo
 
 ## [RockPaperScissors](https://github.com/toxicscientist/Better-Robotop/blob/Canary/commands/RockPaperScissors)
 
-Is meant to play a RPS game against Robotop and then show you the results. Doesn't work.
+Is meant to play a RPS game against Robotop and then show you the results. In Canary branch because it doesn't work.
 
 ## [Random Boomlings Icon](https://github.com/toxicscientist/Better-Robotop/blob/Canary/commands/Random%20Boomlings%20Icon)
 
 Gives you a random boomlings icon, no syntax required. In Canary branch because it needs to be worked on
+
+## [Achievement Remade](https://github.com/toxicscientist/Better-Robotop/blob/Canary/commands/Achievement%20Remade)
+
+A massively dialed down remake of the r!achievement command. Gives a random title and block to your achievement. In Canary branch because it relies too much on randomness and doesn't have enough features.
+
+*Syntax:*
+`r!CommandName AchievementText`
