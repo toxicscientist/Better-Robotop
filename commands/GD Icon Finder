@@ -1,0 +1,4 @@
+{var|gduser|{empty|{args|1}|colon}}
+{var|form|{empty|{args|2}|cube}}
+
+https://gdbrowser.com/icon/{gduser}?form={form}&size=auto&glow=1
