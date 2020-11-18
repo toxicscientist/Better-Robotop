@@ -1,0 +1,23 @@
+{var|RPS|{test|{lower|{args}}|r|:rock:| }{test|{lower|{args}}|p|:newspaper:| }{test|{lower|{args}}|s|:scissors:| }}
+
+{var|comment| This is initializing the  command}
+
+{var|RPSrob|{test|{RPSRobotop}|r|:rock:| }{test|{RPSRobotop}|p|:newspaper:| }{test|{RPSRobotop}|s|:scissors:| }}
+
+
+{var|comment| This is parsing the response }
+
+{var|RPSr|{test|{lower|{args}}|r|Y|N}}
+{var|RPSs|{test|{lower|{args}}|s|Y|N}}
+{var|RPSp|{test|{lower|{args}}|p|Y|N}}
+
+
+{var|comment| This is generating a random answer}
+
+{var|RPSRobotop|{choose|r|p|s}}
+
+
+{var|comment| This is the message }
+
+{test|{RPSr}{RPSp}{RPSs}|NNN|:warning: **WRONG ITEM** Please use r!help rps to get items.|You chose: {trim|{RPS}}}
+{test|{RPSr}{RPSp}{RPSs}|NNN| |Robotop chose: {trim|{RPSrob}}}
