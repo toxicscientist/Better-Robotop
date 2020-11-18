@@ -16,10 +16,10 @@ Change variables as necessary but be careful, too many changes can break command
 * The [Commands.md](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Commands.md) file
 * The [Tools.md](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Commands.md) file
 
-### Next Update
+### Next Update(Memes Update)
 
-- [x] Real Date and Time system
-- [x] r!math remade
-- [x] Rock Paper Scissors game
+- [ ] A command that uploads memes
+- [ ] A command that uploads blursed/blessed images
+- [ ] A command that posts more reaction images than `r!react`
 
 Feel free to request new command ideas using issues and add new commands with pull requests!
