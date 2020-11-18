@@ -1,0 +1,2 @@
+{var|IGN|{empty|{args|1}|0}}
+{test|{IGN}|0|Please specify a name!|http://s.optifine.net/capes/{IGN}.png}
