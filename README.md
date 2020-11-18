@@ -20,6 +20,6 @@ Change variables as necessary but be careful, too many changes can break command
 
 - [x] Real Date and Time system
 - [x] r!math remade
-- [ ] Rock Paper Scissors game
+- [x] Rock Paper Scissors game
 
 Feel free to request new command ideas using issues and add new commands with pull requests!
