@@ -1,6 +1,6 @@
 # Commands
 
-## [Math Remastered](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/math-remastered.yaml) by IxNoah, WolfPlays13 and Me
+## [Math Remastered](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/math-remastered.yaml) by [IxNoah](https://www.reddit.com/user/ixNoah), [WolfPlays13](https://twitter.com/WolfPlay_Posts) and Me
 
 Basically the old _r!math_ Robotop command but remade with custom commands. Only useful for binomials.
 
@@ -21,7 +21,7 @@ _Note: The spaces are necessary, otherwise you'll get a "No Symbol Found" error_
 = : Round to
 ```
 
-## [QR Encoder](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/QR-Encoder) by Hexagon8899
+## [QR Encoder](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/QR-Encoder) by [Hexagon8899](https://twitter.com/Hexagon8899)
 
 I'm actually not quite sure how this works so hopefully @hexagon8899 can explain(He made the command) but it encodes URLs into QR codes
 
@@ -43,6 +43,23 @@ _Note 2: Glow can be removed by removing "&glow=1"_
 
 _Note 3: The size of the image will be automatically resized to fit the icon. This can be removed by changing "auto" in "&size=auto" to the amount of pixels you want(it will always be square)_
 
-## [Random GD Icon Generator](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Random%20GD%20Icon%20Generator) by Hexagon8899
+## [Random GD Icon Generator](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Random%20GD%20Icon%20Generator) by [Hexagon8899](https://twitter.com/Hexagon8899)
 
 Generates a random GD icon using the [GDBrowser API](https://gdbrowser.com/API) without needing any syntax.
+
+## [Rock Paper Scissors(Without Answers)](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Rock%20Paper%20Scissors(without%20answers)) by [WolfPlays13](https://twitter.com/WolfPlay_Posts)
+
+Plays a game of Rock Paper Scissors against Robotop(who answers randomly). Acts like it's Canary counterpart, [RockPaperScissors](https://github.com/toxicscientist/Better-Robotop/blob/Canary/commands/RockPaperScissors) but doesn't have answers.
+
+*Syntax:*
+`r!CommandName Answer`
+
+*Possible answers:*
+
+```
+"r" - Rock
+
+"p" - Paper
+
+"s" - Scissors
+```
