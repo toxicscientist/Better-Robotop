@@ -1,6 +1,6 @@
 # Commands
 
-## [Math Remastered](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/math-remastered.yaml) by [IxNoah](https://www.reddit.com/user/ixNoah), [WolfPlays13](https://twitter.com/WolfPlay_Posts) and Me
+## [Math Remastered](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/math-remastered.yaml) by [IxNoah](https://www.reddit.com/user/ixNoah), [WolfPlays013](https://twitter.com/WolfPlay_Posts) and Me
 
 Basically the old _r!math_ Robotop command but remade with custom commands. Only useful for binomials.
 
@@ -47,7 +47,7 @@ _Note 3: The size of the image will be automatically resized to fit the icon. Th
 
 Generates a random GD icon using the [GDBrowser API](https://gdbrowser.com/API) without needing any syntax.
 
-## [Rock Paper Scissors(Without Answers)](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Rock%20Paper%20Scissors(without%20answers)) by [WolfPlays13](https://twitter.com/WolfPlay_Posts)
+## [Rock Paper Scissors(Without Answers)](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Rock%20Paper%20Scissors(without%20answers)) by [WolfPlays013](https://twitter.com/WolfPlay_Posts)
 
 Plays a game of Rock Paper Scissors against Robotop(who answers randomly). Acts like it's Canary counterpart, [RockPaperScissors](https://github.com/toxicscientist/Better-Robotop/blob/Canary/commands/RockPaperScissors) but doesn't have answers.
 
