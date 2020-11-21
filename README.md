@@ -16,10 +16,15 @@ Change variables as necessary but be careful, too many changes can break command
 * The [Commands.md](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Commands.md) file
 * The [Tools.md](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Commands.md) file
 
-### Next Update(Memes Update)
+### Next Update(Remake Update)
 
-- [ ] A command that uploads memes
-- [ ] A command that uploads blursed/blessed images
-- [ ] A command that posts more reaction images than `r!react`
+ - [ ] A Remaster of `r!percent`
+ - [ ] A Remaster of `r!dunsparce`
+ - [ ] A Remake of `r!garfield`
+ - [ ] A Remaster of `r!penguin`
+ - [ ] A Remake of `r!neck`
+ - [ ] A Remaster of `r!quote`
+ - [ ] A Remaster of `r!rate`
+ - [ ] A Remaster of `r!8ball`
 
 Feel free to request new command ideas using issues and add new commands with pull requests!
