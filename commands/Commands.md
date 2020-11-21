@@ -63,3 +63,17 @@ Plays a game of Rock Paper Scissors against Robotop(who answers randomly). Acts 
 
 "s" - Scissors
 ```
+
+## [Optifine Cape](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Optifine%20Cape) by [ItsEmpa](https://twitter.com/Empa48630605)
+
+Shows the Minecraft cape of the stated user
+
+*Syntax:*
+`r!CommandName User`
+
+## [Newgrounds Search](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Newgrounds%20Search) by [IxNoah](https://www.reddit.com/user/ixNoah)
+
+Searches Nergrounds for the given search terms. It even accepts spaces
+
+*Syntax:*
+`r!CommandName SearchTerms`
