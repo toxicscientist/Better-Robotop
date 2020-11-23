@@ -77,3 +77,17 @@ Searches Nergrounds for the given search terms. It even accepts spaces
 
 *Syntax:*
 `r!CommandName SearchTerms`
+
+## [Dancify](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Dancify) by [ItsEmpa](https://twitter.com/Empa48630605)
+
+Converts plain text to a dancing text. Supports all alphanumeric characters(and $&!?). Emojis yoinked from http://dance.cavifax.com/
+
+*Syntax:*
+`r!CommandName Message`
+
+_Note: This is completely untested by me but it had so much effort in it that I couldn't put it in the Canary Build_
+
+## [Random Place](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Random%20Place) by [Hexagon8899](https://twitter.com/Hexagon8899)
+
+Places a random pixel on the _r!place_ canvas. Acts a little bit weird from other commands as it has to be put in the "run command" section.
+NSN
