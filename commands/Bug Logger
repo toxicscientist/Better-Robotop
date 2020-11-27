@@ -7,11 +7,12 @@
 **__Log Report:__**
 ```js
 {
+Anon_Bug_Reporter_Version: 1.1
 Username: "{username}"
 Discriminator: "{discrim}"
 User_ID: "{id}"
-Top_Role_Colour: "{color}"
-Highest_Role_Name: "{role|highest|name}"
+Anon_Top_Role_Colour: "{color}"
+Anon_Highest_Role_Name: "{role|highest|name}"
 Anon_Has_Admin: "{test|{permission|ADMINISTRATOR}|true|1|0}"
 Anon_Kick: "{test|{permission|KICK_MEMBERS}|true|1|0}"
 Anon_Secret: "{divide|{id}|{discrim}}"
