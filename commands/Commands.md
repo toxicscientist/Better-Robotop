@@ -91,3 +91,8 @@ _Note: This is completely untested by me but it had so much effort in it that I 
 
 Places a random pixel on the _r!place_ canvas. Acts a little bit weird from other commands as it has to be put in the "run command" section.
 NSN
+
+## [Bug Logger](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Bug%20Logger)
+
+Explained [here](https://github.com/toxicscientist/Better-Robotop/wiki/Bug-Logger). Just know that you need it to make bug reports
+NSN
