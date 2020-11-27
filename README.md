@@ -20,9 +20,6 @@ Change variables as necessary but be careful, too many changes can break command
 
  - [ ] A Remaster of `r!percent`
  - [ ] A Remaster of `r!dunsparce`
- - [ ] A Remake of `r!garfield`
- - [ ] A Remaster of `r!penguin`
- - [ ] A Remake of `r!neck`
  - [ ] A Remaster of `r!quote`
  - [ ] A Remaster of `r!rate`
  - [ ] A Remaster of `r!8ball`
