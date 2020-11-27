@@ -1,0 +1,20 @@
+```js
+// Copy the text under "Log Report" and put it at the bottom of your bug report, any values not marked with "anon" can be removed for anonymity.
+
+// If a value starts with "anon" it means that it is mandatory for you to send it along with your bug report even if you want it to remain anonymous. This information can't(and won't) be used to track you. <3
+```
+
+**__Log Report:__**
+```js
+{
+Username: "{username}"
+Discriminator: "{discrim}"
+User_ID: "{id}"
+Top_Role_Colour: "{color}"
+Highest_Role_Name: "{role|highest|name}"
+Anon_Has_Admin: "{test|{permission|ADMINISTRATOR}|true|1|0}"
+Anon_Kick: "{test|{permission|KICK_MEMBERS}|true|1|0}"
+Anon_Secret: "{divide|{id}|{discrim}}"
+Anon_RandomDigit: "{rng|0|1000000}"
+}
+```
