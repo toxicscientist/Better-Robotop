@@ -101,3 +101,45 @@ NSN
 
 A calender command that gives you the date in UTC with emoji formatted in a similar way to a calender with the past days crossed out, the current day highlighted and the future days also highlighted with different emoji.
 NSN
+
+## [8Ball Remade](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/8ball%20Remade)
+
+A near-perfect replica of `r!8ball` for Update 2.0: The Remake Update
+
+Missing Features:
+```
+Editing the message to show a negative result
+```
+
+_Note: Thank you Colon for making [all r!8ball responses public](https://drive.google.com/drive/u/0/folders/17RhXEoyArDClTDyiPsim9fc544eZsiqH)_
+
+## [Dunsparce Remade](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Dunsparce%20Remade)
+
+A near-perfect replica of `r!dunsparce` for Update 2.0: The Remake Update
+
+Missing Features:
+```
+Good empty argument detection
+The Colon Easter egg
+```
+
+## [Percent Remade](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Percent%20Remade)
+
+A near-perfect replica of `r!percent` for Update 2.0: The Remake Update
+
+Missing Features:
+```
+Multiple person detection
+Multiple things to rank detection
+```
+
+## [Rate Remade](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Rate%20Remade)
+
+A near-perfect replica of `r!rate` for Update 2.0: The Remake Update
+
+Missing Features:
+```
+5 stars not causing a weird bug
+Half stars
+Plural detection
+```
