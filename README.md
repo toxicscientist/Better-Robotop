@@ -18,9 +18,9 @@ Change variables as necessary but be careful, too many changes can break command
 
 ### Next Update(Remake Update)
 
- - [ ] A Remaster of `r!percent`
- - [ ] A Remaster of `r!dunsparce`
- - [ ] A Remaster of `r!rate`
- - [ ] A Remaster of `r!8ball`
+ - [x] A Remaster of `r!percent`
+ - [x] A Remaster of `r!dunsparce`
+ - [x] A Remaster of `r!rate`
+ - [x] A Remaster of `r!8ball`
 
 Feel free to request new command ideas using issues and add new commands with pull requests!
