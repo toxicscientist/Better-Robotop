@@ -1,0 +1,3 @@
+{date|DD MMMM Y}
+{test|MMM|Jan|{var|days|31}| }{test|MMM|Feb|{var|days|28}| }{test|MMM|Mar|{var|days|31}| }{test|MMM|Apr|{var|days|30}| }{test|MMM|May|{var|days|31}| }{test|MMM|Jun|{var|days|30}| }{test|MMM|Jul|{var|days|31}| }{test|MMM|Aug|{var|days|31}| }{test|MMM|Sep|{var|days|30}| }{test|MMM|Oct|{var|days|31}| }{test|MMM|Nov|{var|days|30}| }{test|MMM|Dec|{var|days|31}|}
+{repeat|❌|{subtract|{date|D}|1}}❎{repeat|🔘|{subtract|days|{date|D}|1}}
