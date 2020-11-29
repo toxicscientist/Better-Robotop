@@ -96,3 +96,8 @@ NSN
 
 Explained [here](https://github.com/toxicscientist/Better-Robotop/wiki/Bug-Logger). Just know that you need it to make bug reports
 NSN
+
+## [Calender](https://github.com/toxicscientist/Better-Robotop/blob/master/commands/Calender) by [Hexagon8899](https://twitter.com/Hexagon8899)
+
+A calender command that gives you the date in UTC with emoji formatted in a similar way to a calender with the past days crossed out, the current day highlighted and the future days also highlighted with different emoji.
+NSN
