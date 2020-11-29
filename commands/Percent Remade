@@ -1,0 +1,2 @@
+{var|arg?|{empty|{args}|?nothing}}
+{test|{arg?}|?nothing|**{username}**, what should I rank you on?|**{username}**, You are **{rng|0|100|}%** {args}}

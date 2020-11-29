@@ -1,0 +1,7 @@
+{var|arg1dun|{rng|50|999}}
+{var|arg2dun|{rng|50|999}}
+
+{empty|{args|1}|???}'s dunsparce is **{arg1dun}cm!**
+{empty|{args|2}|???}'s dunsparce is **{arg2dun}cm!**
+{var|bigger|{test|{highest|{arg1dun}|{arg2dun}}|{arg1dun}|{args|1}|{args|2}}}
+**{empty|{bigger}|???}'s dunsparce is bigger!**
