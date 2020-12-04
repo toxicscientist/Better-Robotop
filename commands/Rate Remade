@@ -1,3 +1,3 @@
 {var|stars|{rng|1|5}}
 
-**{username}**, I rate {empty|{args|1}|you} {stars} star(s) {repeat|<:ratestar:689863805811163243>|{stars}}{repeat|<:darkstar:512403257918881792>|{subtract|5|{stars}}}
+{test|{highest|{length|{args|1}}|100}|100|**{username}**, I rate **{empty|{args|1}|you}** {stars} star(s) {repeat|<:ratestar:689863805811163243>|{stars}}{repeat|<:darkstar:512403257918881792>|{subtract|5|{stars}}}|**{username}**, type something a little shorter!}
