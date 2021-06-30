@@ -1,0 +1,8 @@
+{var|1|{switch|{args}|rock: rock|paper: paper|scissors: scissors|something that is not rock, paper, nor scissors}}
+{var|2|{choose|rock|paper|scissors}}
+{var|3|{switch|{1}|rock: it's a tie|paper: you win|scissors: i win|it's a fault either way because what you chose wasn't any of the 3 available options}}
+{var|4|{switch|{1}|rock: i win|paper: it's a tie|scissors: you win win|it's a fault either way because what you chose wasn't any of the 3 available options}}
+{var|5|{switch|{1}|rock: you win|paper: i win|scissors: it's a tie|it's a fault either way because what you chose wasn't any of the 3 available options}}
+you chose **{1}**
+i chose **{2}**
+{switch|{2}|rock: {3}|paper: {4}|scissors: {5}|you are not supposed to see this message, yet if you did, something went very wrong in the code}
